@@ -2,7 +2,7 @@
 # To run, specify arg of 1 for part 1 or 2 for part 2.
 import sys
 
-INPUT_FILE = "3_1.input"
+INPUT_FILE = "3.input"
 
 
 def check_side(a, b, c):
