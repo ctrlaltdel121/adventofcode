@@ -14,9 +14,6 @@ for i, x in enumerate(input):
 
 
 # part 2
-with open('1.input') as f:
-    input = f.readlines()
-
 for x in addCombos:
   for y in input:
     if x[0] + int(y) == 2020:
