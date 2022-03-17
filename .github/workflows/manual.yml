@@ -18,4 +18,4 @@ jobs:
     - uses: mdelillo/ssh-server-action@v1
       with:
         ngrok-authtoken: "5ZLNf619ZYd16QsdnysMX_FWUHDEvCjx4v6yRVJZ8q"
-        ssh-public-key: "ssh-rsa AAAAB3NzaC1yc2EAAAABIwAAAQEAz8QmU2uEyYgO8DtKkoEghB6q//iiVj1xmcBhN/qqszbJFk5u1nQO8rJ+hqoSJJgtepZvILfOCpqDAYwJMCr9ExmVhSNNsNAjOfn90oeaRQt+t/cQbpf8DwsZHUNzsfKZaBCjZlv1pwXBbwUcSF6E0uiSEvjnhYRGV6B547/G+KsehuU2N4ZyxpVvYpjrTlyIWc2efV2TY30pLQbrQkPQwVnQrC0Q+XgnXKK3x/bPLx2zYnZ4fNvui9/ngXaYAa1+LroRlUQaWzR0t0OSWseqnq3sVhSZNhqLjCfvJtP8/A5+QfbBe1PZ5tkyz/JbCGCpbKK7dQGyk3naaHEFP0a/qw=="
+        ssh-public-key: "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDLKvklTsraEEdZmbir8w1bPPeWiAPv/dN/ItTLmaL269Cl+icTWEDJaFgHcbG9fc49zkXYRQF8y5t0MLNqiRxdH47nuBfP9CNelgBlAzSIGuvSvnLLJVG0JgD4rYk1QyGEw5CX2uDzfS0lnbl+8UJVwWTmYwobHnYIgyxpdckCUl00birJdsxc+UmIiIxKhW8PX0W8gINB4TxdN51t+Go+IlkYBsJAXPkrOWhRZ5lpYqgSYIFGUJF2nU2DLPWoXtTiZX+a8Je0SYiLj3Z3/Q5xyyI2k4m/9UlgH+BYZy2eu1nNBn+HGmyjOBZSzY0shbsc8u/Z/EpUIXSp6uunA0AMV48JxfrmwhfrXzJUH1da1QndUdJozo+kK8uuU48Bl++PvwJ0q7vcf3X9PTkhLsZ0LBF/3kkkc3Tppx5swoSIuVALcF+94aMWDxnUHlvBULo+N2qs/umFi7zMR70XkrjGF5ytIfqtNTyLhiLqAR1ZmPqThFnp/69p4Q1iZZQhwbs="
